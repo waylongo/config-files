@@ -8,7 +8,6 @@ set shiftwidth=4
 set expandtab
 set ruler
 set incsearch
-set spell spelllang=en_us
 set hlsearch
 set laststatus=2
 set clipboard=unnamedplus
